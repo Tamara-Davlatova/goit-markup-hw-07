@@ -751,7 +751,7 @@ textarea:not(:placeholder-shown) + .label-comment {
 }
 
 .checkbox:checked + .check-icon {
-  background-image: url(../Images/check.svg);
+  background-image: url(../images/check.svg);
   background-size: contain;
   background-color: #2196f3;
   border-color: #2196f3;

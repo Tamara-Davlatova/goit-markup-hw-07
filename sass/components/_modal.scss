@@ -186,7 +186,7 @@ textarea {
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   .checkbox:checked + & {
-    background-image: url(../Images/check.svg);
+    background-image: url(../images/check.svg);
     background-size: contain;
     background-color: $accent-color;
     border-color: $accent-color;
